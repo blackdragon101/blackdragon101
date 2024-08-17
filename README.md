@@ -24,6 +24,10 @@ I'm a passionate **Web Developer** and **Python Developer**, with a keen interes
 - 🏅 **Web Development** (Dr Coders-Tech Trek)
 - 🏅 **AI** (Dr Coders Tech Trek)
 
+## Portfolio:
+- You can check out my portfolio here
+  [Portfolio](https://sites.google.com/view/fatimamasood/home) 
+
 ## Education:
 - 🎓 **BSc. Computer Engineering** at the **University of Engineering and Technology, Lahore**
 
